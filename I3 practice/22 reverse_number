@@ -1,0 +1,5 @@
+#reversing number
+
+a=int(input("enter number: "))
+p=str(a)
+print(p[ : :-1])
